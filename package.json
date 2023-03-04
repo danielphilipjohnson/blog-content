@@ -10,5 +10,8 @@
   "devDependencies": {
     "@nuxtjs/prismic": "^3.0.0-rc.2",
     "nuxt": "^3.2.3"
+  },
+  "dependencies": {
+    "@funken-studio/sitemap-nuxt-3": "^4.0.4"
   }
 }
